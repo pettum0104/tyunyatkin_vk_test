@@ -1,3 +1,25 @@
-# MVG Sandbox
+# Описание файлов:
 
-Student projects and service tools of Microprocessor Verification Group (MVG) at ISP RAS and it's joint labs.
+## main.ipynb:
+
+Основная тетрадка.
+
+## bert_train.ipynb:
+
+Тетрадка, в которой подбиралсь гиперпараметры модели Bert.
+
+## bart_train.ipynb:
+
+Тетрадка, в которой подбиралсь гиперпараметры модели Bart.
+
+## bert_final.ipynb:
+
+Тетрадка, в которой обучалась финальная модель Bert.
+
+## bart_final.ipynb:
+
+Тетрадка, в которой обучалась финальная модель Bart.
+
+## submission.csv:
+
+Результирующий файл со скорами.
